@@ -1,8 +1,7 @@
 # hello-world
 
-## This is new GitHun for me.
+## This is new GitHub for me.
 
-I am a cmu stu.
 
 中文Chinese
 
